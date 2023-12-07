@@ -1,0 +1,73 @@
+body {
+    overflow-x: hidden;
+    background: #000;
+  }
+  .primary-bg {
+    background: #f2f4f7;
+  }
+  .secondary-bg {
+    background: #e8eef8;
+  }
+  .fontSize {
+    font-size: 11px;
+  }
+  .scrollable-column {
+    height: 170px;
+    overflow-x: hidden;
+    scrollbar-color: #0071be #f6f6f6;
+    scrollbar-width: thin;
+    padding-right: 2px;
+  }
+  .scrollable-column::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 50%;
+  }
+  .custom-scrollbar::-webkit-scrollbar {
+    height: 8px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb,
+  .scrollable-column::-webkit-scrollbar-thumb {
+    background-color: #0071be;
+    border-radius: 20px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track,
+  .scrollable-column::-webkit-scrollbar-track {
+    background-color: #e6e6e6;
+  }
+  .small-box {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .third {
+    font-size: 11px;
+  }
+  .icon {
+    font-size: 11px;
+  }
+  .attachment:hover{
+  cursor: pointer;
+  }
+  
+  .dropzone {
+      width: 100px;
+      height: 80px;
+      border: 1px dashed #999;
+      border-radius: 3px;
+      text-align: center;
+  }
+  
+  .upload-icon {
+      margin: 25px 2px 2px 2px;
+  }
+  
+  .upload-input {
+      position: relative;
+      top: -62px;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+  }
