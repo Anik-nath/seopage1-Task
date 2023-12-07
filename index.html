@@ -18,14 +18,42 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+    <script src="./Js/attchment.js"></script>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
       crossorigin="anonymous"
     ></script>
+    <!-- Bootstrap JS and dependencies -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   </head>
   <body>
-    <div class="container-fluid m-4">
+    <!-- modal -->
+    <div class="modal" id="attachmentModal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Your Attachment</h5>
+              <button type="button" class="close border-0" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body d-flex flex-column justify-content-center align-items-center">
+              <!-- Your modal content goes here -->
+              <div class="dropzone mb-4">
+                <img src="./assets/upload.svg" class="upload-icon" />
+                <input type="file" class="upload-input" />
+            </div>
+            <button type="button" class="btn btn-primary" name="uploadbutton">Upload file</button>
+           
+            </div>
+          </div>
+        </div>
+    </div>
+    <!-- main content -->
+    <section class="container-fluid m-4">
       <div class="row gap-3 flex-nowrap overflow-auto pe-4 me-4 custom-scrollbar">
         <!-- incomplete -->
         <div class="col-3 primary-bg py-2">
@@ -102,7 +130,7 @@
                   <div class="comment">
                     <i class="fas fa-envelope icon"></i> 15
                   </div>
-                  <div class="attachment">
+                  <div class="attachment bg-info" data-toggle="modal" data-target="#attachmentModal">
                     <i class="fas fa-paperclip"></i> 25
                   </div>
                   <div class="date">
@@ -113,7 +141,7 @@
             </div>
             <!-- card end here -->
             <!-- card start here -->
-            <div class="card border-0" style="width: 18rem">
+            <div class="card border-0" style="width: 100%">
               <div class="card-body">
                 <!-- first line -->
                 <div class="first d-flex justify-content-between">
@@ -176,7 +204,7 @@
                   <div class="comment">
                     <i class="fas fa-envelope icon"></i> 15
                   </div>
-                  <div class="attachment">
+                  <div class="attachment" data-toggle="modal" data-target="#attachmentModal">
                     <i class="fas fa-paperclip"></i> 25
                   </div>
                   <div class="date">
@@ -994,6 +1022,6 @@
               </div>
           </div>
       </div>
-    </div>
+    </section>
   </body>
 </html>
