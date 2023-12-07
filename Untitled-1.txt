@@ -1,0 +1,808 @@
+ <div class="row gap-3">
+        <!-- To Do -->
+        <div class="col-md primary-bg py-2">
+          <div class="column-title d-flex flex-row align-items-center justify-content-between fw-bold fontSize pb-3">
+            <div class="d-flex flex-row align-items-center gap-1">
+                <img src="./assets/shape (2).png" alt="">
+                <p class="mb-0">To Do</p>
+            </div>
+           
+            <p class="secondary-bg px-2 py-1 mb-0">0</p>
+          </div>
+          <div class="scrollable-column">
+            <!-- card start here -->
+            <div class="card border-0 mb-3" style="width: 100%">
+              <div class="card-body">
+                <!-- first line -->
+                <div class="first d-flex justify-content-between">
+                  <div
+                    class="Client d-flex justify-content-between align-items-center gap-1"
+                  >
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img3.jpg"
+                        alt=""
+                      />
+                    </div>
+                    <div class="name fw-bold fontSize">Client Name</div>
+                  </div>
+                  <div
+                    class="Worker d-flex justify-content-between align-items-center gap-1"
+                  >
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="name fw-bold fontSize">Sadik Istiak</div>
+                  </div>
+                </div>
+                <!-- second line -->
+                <div class="second my-3 d-flex justify-content-between align-items-center">
+                  <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                    <i class="fas fa-layer-group icon"></i>
+                    <p class="my-0 fontSize">
+                      Lorem ipsum dolor sit amet consec...
+                    </p>
+                  </div>
+                  <div class="primary-bg px-1 fontSize">
+                    <i class="fas fa-trash-alt icon"></i> 1/2
+                  </div>
+                </div>
+                <!-- third line -->
+                <div class="third align-items-center d-flex justify-content-between align-items-center">
+                  <div class="image1">
+                    <img
+                      class="small-box rounded-circle"
+                      src="./assets/img1.jfif"
+                      alt=""
+                    />
+                  </div>
+                  <div class="image2">
+                    <img
+                      class="small-box rounded-circle"
+                      src="./assets/img2.png"
+                      alt=""
+                    />
+                  </div>
+                  <div class="small-box primary-bg rounded-circle fw-bold">
+                    12+
+                  </div>
+                  <div class="comment">
+                    <i class="fas fa-envelope icon"></i> 15
+                  </div>
+                  <div class="attachment">
+                    <i class="fas fa-paperclip"></i> 25
+                  </div>
+                  <div class="date">
+                    <i class="far fa-calendar-alt"></i> 30-12-2022
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- card end here -->
+            <!-- card start here -->
+            <div class="card border-0" style="width: 100%">
+              <div class="card-body">
+                <!-- first line -->
+                <div class="first d-flex justify-content-between">
+                  <div
+                    class="Client d-flex justify-content-between align-items-center gap-1"
+                  >
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img3.jpg"
+                        alt=""
+                      />
+                    </div>
+                    <div class="name fw-bold fontSize">Client Name</div>
+                  </div>
+                  <div
+                    class="Worker d-flex justify-content-between align-items-center gap-1"
+                  >
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="name fw-bold fontSize">Sadik Istiak</div>
+                  </div>
+                </div>
+                <!-- second line -->
+                <div class="second my-3 d-flex justify-content-between align-items-center">
+                  <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                    <i class="fas fa-layer-group icon"></i>
+                    <p class="my-0 fontSize">
+                      Lorem ipsum dolor sit amet consec...
+                    </p>
+                  </div>
+                  <div class="primary-bg px-1 fontSize">
+                    <i class="fas fa-trash-alt icon"></i> 1/2
+                  </div>
+                </div>
+                <!-- third line -->
+                <div class="third align-items-center d-flex justify-content-between align-items-center">
+                  <div class="image1">
+                    <img
+                      class="small-box rounded-circle"
+                      src="./assets/img1.jfif"
+                      alt=""
+                    />
+                  </div>
+                  <div class="image2">
+                    <img
+                      class="small-box rounded-circle"
+                      src="./assets/img2.png"
+                      alt=""
+                    />
+                  </div>
+                  <div class="small-box primary-bg rounded-circle fw-bold">
+                    12+
+                  </div>
+                  <div class="comment">
+                    <i class="fas fa-envelope icon"></i> 15
+                  </div>
+                  <div class="attachment">
+                    <i class="fas fa-paperclip"></i> 25
+                  </div>
+                  <div class="date">
+                    <i class="far fa-calendar-alt"></i> 30-12-2022
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- card end here -->
+          </div>
+        </div>
+        <!-- Doing -->
+        <div class="col-md primary-bg py-2">
+            <div class="column-title d-flex flex-row align-items-center justify-content-between fw-bold fontSize pb-3">
+              <div class="d-flex flex-row align-items-center gap-1">
+                  <img src="./assets/shape (1).png" alt="">
+                  <p class="mb-0">Doing</p>
+              </div>
+             
+              <p class="secondary-bg px-2 py-1 mb-0">0</p>
+            </div>
+            <div class="scrollable-column">
+              <!-- card start here -->
+              <div class="card border-0 mb-3" style="width: 100%">
+                <div class="card-body">
+                  <!-- first line -->
+                  <div class="first d-flex justify-content-between">
+                    <div
+                      class="Client d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img3.jpg"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Client Name</div>
+                    </div>
+                    <div
+                      class="Worker d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img1.jfif"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Sadik Istiak</div>
+                    </div>
+                  </div>
+                  <!-- second line -->
+                  <div class="second my-3 d-flex justify-content-between align-items-center">
+                    <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                      <i class="fas fa-layer-group icon"></i>
+                      <p class="my-0 fontSize">
+                        Lorem ipsum dolor sit amet consec...
+                      </p>
+                    </div>
+                    <div class="primary-bg px-1 fontSize">
+                      <i class="fas fa-trash-alt icon"></i> 1/2
+                    </div>
+                  </div>
+                  <!-- third line -->
+                  <div class="third align-items-center d-flex justify-content-between align-items-center">
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="image2">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img2.png"
+                        alt=""
+                      />
+                    </div>
+                    <div class="small-box primary-bg rounded-circle fw-bold">
+                      12+
+                    </div>
+                    <div class="comment">
+                      <i class="fas fa-envelope icon"></i> 15
+                    </div>
+                    <div class="attachment">
+                      <i class="fas fa-paperclip"></i> 25
+                    </div>
+                    <div class="date">
+                      <i class="far fa-calendar-alt"></i> 30-12-2022
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- card end here -->
+              <!-- card start here -->
+              <div class="card border-0" style="width: 100%">
+                <div class="card-body">
+                  <!-- first line -->
+                  <div class="first d-flex justify-content-between">
+                    <div
+                      class="Client d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img3.jpg"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Client Name</div>
+                    </div>
+                    <div
+                      class="Worker d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img1.jfif"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Sadik Istiak</div>
+                    </div>
+                  </div>
+                  <!-- second line -->
+                  <div class="second my-3 d-flex justify-content-between align-items-center">
+                    <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                      <i class="fas fa-layer-group icon"></i>
+                      <p class="my-0 fontSize">
+                        Lorem ipsum dolor sit amet consec...
+                      </p>
+                    </div>
+                    <div class="primary-bg px-1 fontSize">
+                      <i class="fas fa-trash-alt icon"></i> 1/2
+                    </div>
+                  </div>
+                  <!-- third line -->
+                  <div class="third align-items-center d-flex justify-content-between align-items-center">
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="image2">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img2.png"
+                        alt=""
+                      />
+                    </div>
+                    <div class="small-box primary-bg rounded-circle fw-bold">
+                      12+
+                    </div>
+                    <div class="comment">
+                      <i class="fas fa-envelope icon"></i> 15
+                    </div>
+                    <div class="attachment">
+                      <i class="fas fa-paperclip"></i> 25
+                    </div>
+                    <div class="date">
+                      <i class="far fa-calendar-alt"></i> 30-12-2022
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- card end here -->
+            </div>
+        </div>
+        <!-- Under Review -->
+        <div class="col-md primary-bg py-2">
+            <div class="column-title d-flex flex-row align-items-center justify-content-between fw-bold fontSize pb-3">
+              <div class="d-flex flex-row align-items-center gap-1">
+                  <img src="" alt="">
+                  <p class="mb-0">Doing</p>
+              </div>
+             
+              <p class="secondary-bg px-2 py-1 mb-0">0</p>
+            </div>
+            <div class="scrollable-column">
+              <!-- card start here -->
+              <div class="card border-0 mb-3" style="width: 100%">
+                <div class="card-body">
+                  <!-- first line -->
+                  <div class="first d-flex justify-content-between">
+                    <div
+                      class="Client d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img3.jpg"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Client Name</div>
+                    </div>
+                    <div
+                      class="Worker d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img1.jfif"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Sadik Istiak</div>
+                    </div>
+                  </div>
+                  <!-- second line -->
+                  <div class="second my-3 d-flex justify-content-between align-items-center">
+                    <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                      <i class="fas fa-layer-group icon"></i>
+                      <p class="my-0 fontSize">
+                        Lorem ipsum dolor sit amet consec...
+                      </p>
+                    </div>
+                    <div class="primary-bg px-1 fontSize">
+                      <i class="fas fa-trash-alt icon"></i> 1/2
+                    </div>
+                  </div>
+                  <!-- third line -->
+                  <div class="third align-items-center d-flex justify-content-between align-items-center">
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="image2">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img2.png"
+                        alt=""
+                      />
+                    </div>
+                    <div class="small-box primary-bg rounded-circle fw-bold">
+                      12+
+                    </div>
+                    <div class="comment">
+                      <i class="fas fa-envelope icon"></i> 15
+                    </div>
+                    <div class="attachment">
+                      <i class="fas fa-paperclip"></i> 25
+                    </div>
+                    <div class="date">
+                      <i class="far fa-calendar-alt"></i> 30-12-2022
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- card end here -->
+              <!-- card start here -->
+              <div class="card border-0" style="width: 100%">
+                <div class="card-body">
+                  <!-- first line -->
+                  <div class="first d-flex justify-content-between">
+                    <div
+                      class="Client d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img3.jpg"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Client Name</div>
+                    </div>
+                    <div
+                      class="Worker d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img1.jfif"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Sadik Istiak</div>
+                    </div>
+                  </div>
+                  <!-- second line -->
+                  <div class="second my-3 d-flex justify-content-between align-items-center">
+                    <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                      <i class="fas fa-layer-group icon"></i>
+                      <p class="my-0 fontSize">
+                        Lorem ipsum dolor sit amet consec...
+                      </p>
+                    </div>
+                    <div class="primary-bg px-1 fontSize">
+                      <i class="fas fa-trash-alt icon"></i> 1/2
+                    </div>
+                  </div>
+                  <!-- third line -->
+                  <div class="third align-items-center d-flex justify-content-between align-items-center">
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="image2">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img2.png"
+                        alt=""
+                      />
+                    </div>
+                    <div class="small-box primary-bg rounded-circle fw-bold">
+                      12+
+                    </div>
+                    <div class="comment">
+                      <i class="fas fa-envelope icon"></i> 15
+                    </div>
+                    <div class="attachment">
+                      <i class="fas fa-paperclip"></i> 25
+                    </div>
+                    <div class="date">
+                      <i class="far fa-calendar-alt"></i> 30-12-2022
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- card end here -->
+            </div>
+        </div>
+         <!-- Completed -->
+         <div class="col-md primary-bg py-2">
+            <div class="column-title d-flex flex-row align-items-center justify-content-between fw-bold fontSize pb-3">
+              <div class="d-flex flex-row align-items-center gap-1">
+                  <img src="./assets/shape (1).png" alt="">
+                  <p class="mb-0">Doing</p>
+              </div>
+             
+              <p class="secondary-bg px-2 py-1 mb-0">0</p>
+            </div>
+            <div class="scrollable-column">
+              <!-- card start here -->
+              <div class="card border-0 mb-3" style="width: 100%">
+                <div class="card-body">
+                  <!-- first line -->
+                  <div class="first d-flex justify-content-between">
+                    <div
+                      class="Client d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img3.jpg"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Client Name</div>
+                    </div>
+                    <div
+                      class="Worker d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img1.jfif"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Sadik Istiak</div>
+                    </div>
+                  </div>
+                  <!-- second line -->
+                  <div class="second my-3 d-flex justify-content-between align-items-center">
+                    <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                      <i class="fas fa-layer-group icon"></i>
+                      <p class="my-0 fontSize">
+                        Lorem ipsum dolor sit amet consec...
+                      </p>
+                    </div>
+                    <div class="primary-bg px-1 fontSize">
+                      <i class="fas fa-trash-alt icon"></i> 1/2
+                    </div>
+                  </div>
+                  <!-- third line -->
+                  <div class="third align-items-center d-flex justify-content-between align-items-center">
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="image2">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img2.png"
+                        alt=""
+                      />
+                    </div>
+                    <div class="small-box primary-bg rounded-circle fw-bold">
+                      12+
+                    </div>
+                    <div class="comment">
+                      <i class="fas fa-envelope icon"></i> 15
+                    </div>
+                    <div class="attachment">
+                      <i class="fas fa-paperclip"></i> 25
+                    </div>
+                    <div class="date">
+                      <i class="far fa-calendar-alt"></i> 30-12-2022
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- card end here -->
+              <!-- card start here -->
+              <div class="card border-0" style="width: 100%">
+                <div class="card-body">
+                  <!-- first line -->
+                  <div class="first d-flex justify-content-between">
+                    <div
+                      class="Client d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img3.jpg"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Client Name</div>
+                    </div>
+                    <div
+                      class="Worker d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img1.jfif"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Sadik Istiak</div>
+                    </div>
+                  </div>
+                  <!-- second line -->
+                  <div class="second my-3 d-flex justify-content-between align-items-center">
+                    <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                      <i class="fas fa-layer-group icon"></i>
+                      <p class="my-0 fontSize">
+                        Lorem ipsum dolor sit amet consec...
+                      </p>
+                    </div>
+                    <div class="primary-bg px-1 fontSize">
+                      <i class="fas fa-trash-alt icon"></i> 1/2
+                    </div>
+                  </div>
+                  <!-- third line -->
+                  <div class="third align-items-center d-flex justify-content-between align-items-center">
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="image2">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img2.png"
+                        alt=""
+                      />
+                    </div>
+                    <div class="small-box primary-bg rounded-circle fw-bold">
+                      12+
+                    </div>
+                    <div class="comment">
+                      <i class="fas fa-envelope icon"></i> 15
+                    </div>
+                    <div class="attachment">
+                      <i class="fas fa-paperclip"></i> 25
+                    </div>
+                    <div class="date">
+                      <i class="far fa-calendar-alt"></i> 30-12-2022
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- card end here -->
+            </div>
+        </div>
+        <!-- Overdone -->
+        <div class="col-md primary-bg py-2">
+            <div class="column-title d-flex flex-row align-items-center justify-content-between fw-bold fontSize pb-3">
+              <div class="d-flex flex-row align-items-center gap-1">
+                  <img src="" alt="">
+                  <p class="mb-0">Doing</p>
+              </div>
+             
+              <p class="secondary-bg px-2 py-1 mb-0">0</p>
+            </div>
+            <div class="scrollable-column">
+              <!-- card start here -->
+              <div class="card border-0 mb-3" style="width: 100%">
+                <div class="card-body">
+                  <!-- first line -->
+                  <div class="first d-flex justify-content-between">
+                    <div
+                      class="Client d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img3.jpg"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Client Name</div>
+                    </div>
+                    <div
+                      class="Worker d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img1.jfif"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Sadik Istiak</div>
+                    </div>
+                  </div>
+                  <!-- second line -->
+                  <div class="second my-3 d-flex justify-content-between align-items-center">
+                    <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                      <i class="fas fa-layer-group icon"></i>
+                      <p class="my-0 fontSize">
+                        Lorem ipsum dolor sit amet consec...
+                      </p>
+                    </div>
+                    <div class="primary-bg px-1 fontSize">
+                      <i class="fas fa-trash-alt icon"></i> 1/2
+                    </div>
+                  </div>
+                  <!-- third line -->
+                  <div class="third align-items-center d-flex justify-content-between align-items-center">
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="image2">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img2.png"
+                        alt=""
+                      />
+                    </div>
+                    <div class="small-box primary-bg rounded-circle fw-bold">
+                      12+
+                    </div>
+                    <div class="comment">
+                      <i class="fas fa-envelope icon"></i> 15
+                    </div>
+                    <div class="attachment">
+                      <i class="fas fa-paperclip"></i> 25
+                    </div>
+                    <div class="date">
+                      <i class="far fa-calendar-alt"></i> 30-12-2022
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- card end here -->
+              <!-- card start here -->
+              <div class="card border-0" style="width: 100%">
+                <div class="card-body">
+                  <!-- first line -->
+                  <div class="first d-flex justify-content-between">
+                    <div
+                      class="Client d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img3.jpg"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Client Name</div>
+                    </div>
+                    <div
+                      class="Worker d-flex justify-content-between align-items-center gap-1"
+                    >
+                      <div class="image1">
+                        <img
+                          class="small-box rounded-circle"
+                          src="./assets/img1.jfif"
+                          alt=""
+                        />
+                      </div>
+                      <div class="name fw-bold fontSize">Sadik Istiak</div>
+                    </div>
+                  </div>
+                  <!-- second line -->
+                  <div class="second my-3 d-flex justify-content-between align-items-center">
+                    <div class="d-flex justify-content-between flex-row align-items-center gap-2">
+                      <i class="fas fa-layer-group icon"></i>
+                      <p class="my-0 fontSize">
+                        Lorem ipsum dolor sit amet consec...
+                      </p>
+                    </div>
+                    <div class="primary-bg px-1 fontSize">
+                      <i class="fas fa-trash-alt icon"></i> 1/2
+                    </div>
+                  </div>
+                  <!-- third line -->
+                  <div class="third align-items-center d-flex justify-content-between align-items-center">
+                    <div class="image1">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img1.jfif"
+                        alt=""
+                      />
+                    </div>
+                    <div class="image2">
+                      <img
+                        class="small-box rounded-circle"
+                        src="./assets/img2.png"
+                        alt=""
+                      />
+                    </div>
+                    <div class="small-box primary-bg rounded-circle fw-bold">
+                      12+
+                    </div>
+                    <div class="comment">
+                      <i class="fas fa-envelope icon"></i> 15
+                    </div>
+                    <div class="attachment">
+                      <i class="fas fa-paperclip"></i> 25
+                    </div>
+                    <div class="date">
+                      <i class="far fa-calendar-alt"></i> 30-12-2022
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- card end here -->
+            </div>
+        </div>
+        
+      </div>
